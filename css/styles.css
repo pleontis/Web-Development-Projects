@@ -31,7 +31,7 @@ hr{
     border: dotted #eaf6f6 6px;
     border-bottom: none;
     width: 4%;
-    margin: 75px auto;
+    margin: 100px auto;
 }
 a{
     color: #11999E;
@@ -69,7 +69,7 @@ a:hover{
     text-align: left;
 }
 .middle-container{
-    margin: 50px 0;
+    margin: 100px 0;
 }
 .bottom-container{
     background-color: #66bfbf;
@@ -85,7 +85,10 @@ a:hover{
     left: 200px;
     bottom: 300px;
 }
-
+.mountain{
+    position: relative;
+    width: 50%;
+}
 .computer{
     border-radius: 360px;
     width: 25%;
