@@ -1,4 +1,4 @@
-#Glowing Flowers Project
+#CSS Blooming Flowers Project
 
 Created some effects for moving and glowing with html and css
 
